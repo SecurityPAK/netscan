@@ -1,4 +1,4 @@
-# NETwork SCANner
+# network scanner
 
 <p align="center">
   <strong>Click your operating system to scan your network</strong>
@@ -47,7 +47,7 @@
   <li><strong>Download Network Scanner Script</strong>
     <ul>
       <li>Copy and paste the following command into Command Prompt to download the script:</li>
-      <pre><code>curl -o windows.ps1 https://raw.githubusercontent.com/0x99n/netscan/main/windows.ps1</code></pre>
+      <pre><code>curl -o windows.ps1 https://raw.githubusercontent.com/SecurityPAK/netscan/main/windows.ps1</code></pre>
     </ul>
   </li>
   <li><strong>Run Network Scanner</strong>
@@ -87,7 +87,7 @@
   <li><strong>Download Network Scanner Script</strong>
     <ul>
       <li>Copy and paste the following command into Terminal to download the script:</li>
-      <pre><code>curl -o macos.sh https://raw.githubusercontent.com/0x99n/netscan/main/macos.sh</code></pre>
+      <pre><code>curl -o macos.sh https://raw.githubusercontent.com/SecurityPAK/netscan/main/macos.sh</code></pre>
     </ul>
   </li>
   <li><strong>Make Script Executable</strong>
@@ -126,7 +126,7 @@ sudo yum install nmap      # For Red Hat/CentOS-based systems</code></pre>
   <li><strong>Download Network Scanner Script</strong>
     <ul>
       <li>Copy and paste the following command into Terminal to download the script:</li>
-      <pre><code>curl -o linux.sh https://raw.githubusercontent.com/0x99n/netscan/main/linux.sh</code></pre>
+      <pre><code>curl -o linux.sh https://raw.githubusercontent.com/SecurityPAK/netscan/main/linux.sh</code></pre>
     </ul>
   </li>
   <li><strong>Make Script Executable</strong>
